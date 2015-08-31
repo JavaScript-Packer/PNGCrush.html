@@ -1,5 +1,5 @@
 # PNGCrush.html
-Really good PNG compressor web application. It is 2,500KB of JavaScript ByteCode compressed to about 250KB in a self extracting and auto executing HTML file. 
+Really good PNG compressor web application. It is 2,500KB of JavaScript ByteCode compressed to about 250KB in a self extracting and auto executing HTML file. The original PNGCrush program is "old school" DOS software/freeware, but not everyone is able to use command line prompts in Microsoft DOS so here is a simple to use drag and drop interface for easy use.
 
 Enable reuse by page refresh, sorry but for multiple files it's not setup well, but for one or 2 quick reductions for performance gain, it rocks and does the job better than any paid software!
 
